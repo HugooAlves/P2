@@ -133,7 +133,7 @@ Execute o comando: streamlit run app.py
 Uma aba no seu navegador web padrão abrirá automaticamente exibindo a aplicação interativa, onde é possível preencher os dados de um cliente fictício e simular a previsão de inadimplência em tempo real.
 
 ● Link do app publicado
-https://8502-m-s-kkb-ase1a2-ri79vgwah349-a.asia-east1-2.prod.colab.dev)).
+(https://rog9royhesqgwtdsnazla2.streamlit.app/))).
 
 ● Limitações
 Dados Estáticos: O modelo depende estritamente do comportamento contido nesse histórico de dados de crédito e pode precisar de reciclagem (re-treino) se o cenário econômico ou o perfil dos clientes mudar drasticamente ao longo do tempo.
